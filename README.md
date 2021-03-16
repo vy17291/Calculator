@@ -1,2 +1,0 @@
-# Calculator
-Just a calculator
